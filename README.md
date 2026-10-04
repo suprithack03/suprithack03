@@ -19,12 +19,13 @@ Building backend systems and integrating AI to solve real-world problems.
 
 ## 👩‍💻 About Me
 
-I'm a final-year Information Science Engineering student with a strong interest in backend development, distributed systems, and AI-powered applications. I enjoy designing and building practical software solutions, developing REST APIs, working with databases, and integrating AI into applications to solve real-world problems.
+I'm a final-year Information Science Engineering student aspiring to be a Software Engineer, with a strong foundation in Data Structures & Algorithms (200+ problems solved), Object-Oriented Programming, and Agile development. I've built three end-to-end projects using Spring Boot, microservices, REST APIs, secure authentication, and React, and have experience in database design, automated testing, and integrating LLMs with RAG to deliver AI-powered features.
 
 * 🎓 Pursuing B.E. in Information Science Engineering
-* 💻 Interested in backend development and software engineering
-* 🚀 Built end-to-end projects involving backend systems and AI integration
-* 🌱 Continuously learning and improving through hands-on development
+* 💻 Strong foundation in Data Structures & Algorithms, OOP, and Agile development.
+* 🚀 Built end-to-end projects involving backend systems, microservices, and React
+* 🤖 Experienced in integrating LLMs and RAG into real-world applications
+* 🌱 Eager to contribute to a team building reliable software
 
 ---
 
@@ -95,10 +96,11 @@ A security operations platform designed to help analysts investigate incidents, 
 </table>
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,react,postgres,redis,docker,kubernetes,git,github&theme=dark" alt="Java, Spring Boot, Python, React, PostgreSQL, Redis, Docker, Kubernetes, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,postgres,redis,docker,kubernetes,git,github&theme=dark" alt="Java, Spring, Python, JavaScript, React, PostgreSQL, Redis, Docker, Kubernetes, Git and GitHub" />
 </p>
 
 <p align="center">
@@ -108,7 +110,6 @@ A security operations platform designed to help analysts investigate incidents, 
   <img src="https://img.shields.io/badge/DATABASES-181818?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/DEVOPS-181818?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
 
 ---
 
