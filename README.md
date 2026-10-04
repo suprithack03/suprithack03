@@ -75,6 +75,9 @@ A distributed platform that monitors simulated e-commerce services, detects oper
 <tr>
 <td colspan="2" valign="top">
 
+ <tr>
+<td width="50%" valign="top">
+
 <h3>🛡️ AegisOps</h3>
 <p><strong>AI-Powered Security Operations &amp; Threat Response Platform</strong></p>
 
@@ -92,8 +95,28 @@ A security operations platform designed to help analysts investigate incidents, 
 </p>
 
 </td>
+<td width="50%" valign="top">
+
+<h3>✈️ TravelGenie</h3>
+<p><strong>AI-Powered Travel Planning &amp; Recommendation Platform</strong></p>
+
+A full-stack travel planning platform that helps users explore destinations, plan trips, and get travel assistance through an integrated AI chatbot. It combines an interactive destination planner with user authentication, profile management, and a dashboard to provide a more personalized travel planning experience.
+
+<p><strong>Tech Stack</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/AI_Chatbot-8E75B2?style=flat-square" alt="AI Chatbot" />
+</p>
+
+<p><a href="https://github.com/suprithack03/TravelGenie"><strong>View Repository →</strong></a></p>
+
+</td>
 </tr>
 </table>
+
 
 ---
 
@@ -138,7 +161,7 @@ August 2023 – August 2027
 * 🏅 **She Innovates 2026:** Selected as a Top Student Innovator for an entrepreneurship idea considered for evaluation and potential funding.
 * 🏆 **UXverse:** Winner of a UI/UX competition.
 * 📄 **Research Publication:** Published research on IncidentAI.
-* 📜 **Certifications:** Java, Software Engineering and Agile Software Development, Cloud Computing Foundation, Docker Fundamentals, and Express.js.
+* 📜 **Certifications:** Java, Software Engineering and Agile Software Development, Cloud Computing Foundation, Docker Fundamentals
 
 ---
 
